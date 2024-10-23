@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "src/assets/images/1.jpg",
+    "title": "The Future of Technology",
+    "author": "John Doe",
+    "author_img": "src/assets/images/boy1.png",
+    "posted_date": "2024-10-01",
+    "reading_time": "5",
+    "hashtags": ["technology", "innovation", "future"]
+  },
+  {
+    "id": 2,
+    "cover": "src/assets/images/2.png",
+    "title": "Exploring the Cosmos",
+    "author": "Jane Smith",
+    "author_img": "src/assets/images/boy2.png",
+    "posted_date": "2024-10-05",
+    "reading_time": "8",
+    "hashtags": ["space", "astronomy", "cosmos"]
+  },
+  {
+    "id": 3,
+    "cover": "src/assets/images/3.png",
+    "title": "Healthy Eating for a Busy Life",
+    "author": "Michael Green",
+    "author_img": "src/assets/images/girl1.jpg",
+    "posted_date": "2024-09-28",
+    "reading_time": "7",
+    "hashtags": ["health", "nutrition", "lifestyle"]
+  },
+  {
+    "id": 4,
+    "cover": "src/assets/images/4.jpg",
+    "title": "Mastering Remote Work",
+    "author": "Sarah Lee",
+    "author_img": "src/assets/images/girl2.jpg",
+    "posted_date": "2024-10-12",
+    "reading_time": "6",
+    "hashtags": ["remotework", "productivity", "workfromhome"]
+  }
+]
